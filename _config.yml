@@ -26,18 +26,22 @@ description: >- # used by seo meta and the atom feed
 url: "https://0xSherfa.github.io"
 
 github:
-  username: 0xSherfa # change to your GitHub username
+  username: 0xSherfa # change to your github username
 
 twitter:
-  username: twitter_username # change to your Twitter username
+  username: ahmedsherf250 # change to your twitter username
 
 social:
-  name: Ahmed Sherif
-  email: ahmedsherif250350@gmail.com
+  # Change to your full name.
+  # It will be displayed as the default author of the posts and the copyright owner in the Footer
+  name: 0xSherfa
+  email: ahmedsherif250350@gmail.com # change to your email address
   links:
-    - https://www.linkedin.com/in/84bb7b24b # LinkedIn as main icon
-    - https://github.com/0xSherfa
-
+    # The first element serves as the copyright owner's link
+    - https://twitter.com/ahmedsherf250 # change to your twitter homepage
+    - https://github.com/0xSherfa # change to your github homepage
+    # Uncomment below to add more social links
+    - https://www.linkedin.com/in/84bb7b24b
 # Site Verification Settings
 webmaster_verifications:
   google: # fill in your Google verification code
